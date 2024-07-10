@@ -1,3 +1,4 @@
+
 /* this is banner section */
 .banner{
     text-align: center;
@@ -189,12 +190,13 @@ box-shadow: 0px 6px 50px 0px #67666617;
 .submit-section{
 
     border-radius: 18px;
-    width: 1140px;
     background-image: url(assets/handshake.jpg);
     padding: 50px;
     background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
+  margin-top: 60px;
+
 }
 .submit-ber{
     width: 550px;
@@ -225,8 +227,10 @@ footer{
 }
 .logo{
     margin-right: 50px;
-    margin-top: 14px;
+    margin-top: 20px;
+    padding-bottom: 7px;
 }
 .footer-title{
 margin-left: 52px;
+padding-top: 11px;
 }

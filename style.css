@@ -37,7 +37,7 @@ font-weight:600px;
 /* share class */
 .content-discribtion{
     font-size: 16px;
-    color: #0D1321;
+    color: #757575;
 
 } 
 .align-center{
@@ -75,8 +75,8 @@ a{
   font-style: normal;
 }
 main{
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 /* why web section */
 
@@ -92,7 +92,8 @@ main{
 
 }
 .web-text{
-    padding-right: 100px;
+    padding-right: 50px;
+    padding-left: 50px;
 
 }
 .web-contant{
@@ -107,6 +108,7 @@ main{
 
 .web-dev-content-2{
 display:flex;
+justify-content: space-between;
 padding: 48px;
 padding: 30px; 
 margin: 24px;
@@ -127,7 +129,10 @@ box-shadow: 0px 6px 50px 0px #67666617;
      width: min-content; 
 }
 .video{
-    margin: 50px 0px;
+    
+    height: auto;
+     margin: 50px 0px;
+     margin-bottom: 100px;
 }
 
 
@@ -136,6 +141,8 @@ box-shadow: 0px 6px 50px 0px #67666617;
 
 .experiences{
     display: flex;
+    width: 980px;
+    margin: auto;
  }
  .experience-1{
     background-color: hwb(34 50% 2% / 0.192);
@@ -172,3 +179,12 @@ box-shadow: 0px 6px 50px 0px #67666617;
  .skill-img{
     width: 40px;
  }
+ .primary-content{
+    margin: auto;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 60px;
+    width: 766px;
+}
+
+ 
